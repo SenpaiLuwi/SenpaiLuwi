@@ -24,7 +24,7 @@
         <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Telegram">
     </a>
     <a href="https://sites.google.com/view/johnlouieubias/home">
-        <img src="https://img.shields.io/badge/https://img.shields.io/badge/Google%20Chrome-4285F4?lstyle=for-the-badge&logo=GoogleChrome&logoColor=white" alt="GoogleChrome">
+        <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" alt="GoogleChrome">
     </a>
 </p>
 
