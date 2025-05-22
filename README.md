@@ -27,10 +27,6 @@
     </a>
 </p>
 
-<h3 align="center">Information Technology Student from New Era University, Quezon City, Philippines</h3>
-
-
-
 ## 🎓Education
 
 <div align="center">
