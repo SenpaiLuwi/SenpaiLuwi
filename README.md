@@ -1,4 +1,4 @@
-<img src="Banner_GitGub.png" alt="GitHub Banner" width="100%"/>
+<img src="Banner_GitHub.png" alt="GitHub Banner" width="100%"/>
 
 ## 🎮Profile
 <h1 align="center">John Louie Ubias</h1>
