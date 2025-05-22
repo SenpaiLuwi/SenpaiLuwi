@@ -1,5 +1,9 @@
+<img src="Banner_GitGub.png" alt="GitHub Banner" width="100%"/>
+
 ## 🎮Profile
 <h1 align="center">John Louie Ubias</h1>
+
+<a href="https://sites.google.com/view/johnlouieubias/home">!CHECK OUT MY WEBSITE!</a>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/john-louie-ubias/">
@@ -22,9 +26,6 @@
     </a>
     <a href="https://github.com/SenpaiLuwi">
         <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Telegram">
-    </a>
-    <a href="https://sites.google.com/view/johnlouieubias/home">
-        <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" alt="GoogleChrome">
     </a>
 </p>
 
