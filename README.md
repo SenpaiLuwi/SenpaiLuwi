@@ -1,8 +1,6 @@
 <img src="Banner_GitHub.png" alt="GitHub Banner" width="100%"/>
 
 ## 🎮Profile
-<h1 align="center">John Louie Ubias</h1>
-
 <h1 align="center"><a href="https://sites.google.com/view/johnlouieubias/home">CHECK OUT MY WEBSITE!</a></h1>
 
 <p align="center">
