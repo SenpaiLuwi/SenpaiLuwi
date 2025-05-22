@@ -1,9 +1,9 @@
 ## 🎮Profile
-<h1 align="center">**John Louie Ubias**</h1>
+<h1 align="center">John Louie Ubias</h1>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/john-louie-ubias/">
-        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto: ubiasjohnlouiem@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website">
